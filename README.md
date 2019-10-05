@@ -1,1 +1,1 @@
-ECHO is on.
+Time series modelling on Individual household electric power consumption data.

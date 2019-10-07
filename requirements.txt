@@ -8,3 +8,4 @@ scikit-learn>=0.20.3
 tensorflow==1.13.0-rc1
 psutil>=5.6.3
 datetime
+holidays==0.9.11
